@@ -4,4 +4,4 @@ This web application was originally developed by David Mattli using an earlier v
 
 The app can be found at http://usgs-ybother.srv.mst.edu/viz
 
-Currently there is an error that occurs when users submit a sparql query.  The error occurs because the data being pulled from ontoloty/data is not in json.  As a result the data is not in a format that the code in app.js under the static directory is able to use.  
+The web application allows users to write a sparql query and visualize the geospatial data returned from the query as a map layer, as well as tabular data.    
